@@ -44,7 +44,8 @@
     ],
     "uniqCompNum": 0,
     "versionPublish": "5.5.2",
-    "imageResize": true
+    "imageResize": true,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
